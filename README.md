@@ -1,6 +1,6 @@
 # Leet code solutions
 
-This repository contains completed solutions from [leetcode](https://leetcode.com). Provaded "as is" with no any warranties and obligations.
+This repository contains completed solutions from [leetcode](https://leetcode.com). Provided "as is" with no any warranties and obligations.
 
 ## Structure
 
